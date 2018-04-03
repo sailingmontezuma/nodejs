@@ -1,7 +1,7 @@
 const log = require('./logger');
 const path = require('path');
 const os = require('os');
-const fs = require('fs');
+const fs = require('fs');d
 
 // const files = fs.readdirSync('./');
 // console.log(files);
